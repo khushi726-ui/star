@@ -1,2 +1,2 @@
 # star
-thi is first class
+this is first class
